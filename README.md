@@ -77,8 +77,6 @@ Predicted Price: $320,000
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests for improvements.
 
-## 📜 License
-This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 - Kaggle for the dataset
