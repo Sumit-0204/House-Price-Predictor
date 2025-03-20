@@ -74,7 +74,7 @@ Model evaluation is performed using:
 - **R-Squared Score (R²)**
 
 ## 📈 Results & Performance
-The model achieved an R² score of **X.XX**, indicating a strong correlation between input features and predicted prices.
+The model achieved an R² score of **0.5957702326061662**, indicating a strong correlation between input features and predicted prices.
 
 **Sample Prediction:**
 ```
