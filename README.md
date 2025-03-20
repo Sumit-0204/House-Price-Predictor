@@ -12,6 +12,19 @@ House prices fluctuate based on multiple factors, making it crucial for buyers a
 - Visual representation of dataset insights
 - Model performance evaluation using statistical metrics
 
+## 🛠 Tools & Technologies Used
+- **Programming Language**: Python  
+- **Libraries & Frameworks**:  
+  - **Pandas** – Data manipulation and preprocessing  
+  - **NumPy** – Numerical computations  
+  - **Matplotlib & Seaborn** – Data visualization  
+  - **Scikit-Learn** – Machine learning models and evaluation metrics  
+  - **XGBoost** – Gradient boosting algorithm for better accuracy  
+- **Data Handling**: CSV files (Kaggle dataset)  
+- **Model Evaluation**: MAE, MSE, R² Score  
+- **Version Control**: Git & GitHub  
+- **Development Environment**: Jupyter Notebook / VS Code  
+
 ## 📂 Dataset
 The dataset used in this project is sourced from Kaggle, containing features like:
 - **Size (sq ft)**: The total area of the house
