@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
 - Feature importance analysis
 
 **Example Visualization:**
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/Sumit-0204/House-Price-Predictor/blob/main/corelation%20atributes.PNG)
 
 ## 🏗 Model Selection & Training
 The project implements multiple regression models, including:
