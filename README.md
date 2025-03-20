@@ -23,7 +23,7 @@ House prices fluctuate based on multiple factors, making it crucial for buyers a
 - **Data Handling**: CSV files (Kaggle dataset)  
 - **Model Evaluation**: MAE, MSE, R² Score  
 - **Version Control**: Git & GitHub  
-- **Development Environment**: Jupyter Notebook / VS Code  
+- **Development Environment**: Jupyter Notebook and Google Colab  
 
 ## 📂 Dataset
 The dataset used in this project is sourced from Kaggle, containing features like:
